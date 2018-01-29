@@ -1,0 +1,6 @@
+require_relative ('characters.rb')
+require_relative ('journeys.rb')
+require_relative ('cli.rb')
+require_relative ('chapters.rb')
+require_relative ('planets.rb')
+require_relative ('battle_system.rb')
